@@ -37,7 +37,8 @@ h1 {
 
 .buttons{
   display:flex;
-  justify-content: end;
+  justify-content: center;
+  margin:10px;
 }
 
 button {
